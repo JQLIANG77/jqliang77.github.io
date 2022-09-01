@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-09-01T16:19:49.603Z</updated>
+  <updated>2022-09-01T17:50:15.091Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -18,20 +18,19 @@
   
   <entry>
     <title>First note</title>
-    <link href="http://example.com/2022/09/01/article/"/>
-    <id>http://example.com/2022/09/01/article/</id>
+    <link href="http://example.com/2022/09/01/First%20note/"/>
+    <id>http://example.com/2022/09/01/First%20note/</id>
     <published>2022-09-01T10:37:56.424Z</published>
-    <updated>2022-09-01T16:19:49.603Z</updated>
+    <updated>2022-09-01T17:50:15.091Z</updated>
     
-    <content type="html"><![CDATA[<p>入职之后，没有指引没有方向，在碌碌无为了一段时间后，开始做自己想做的事。</p><p>陷入了一个怪圈，越不被看到，就越不想被看到。</p><p>最近沉迷读书，沉迷音乐，沉迷小宇宙，今天搭建起了这个个人博客，简直开心极了，这种欢愉已经完全冲散了工作的烦恼。</p>]]></content>
+    <content type="html"><![CDATA[<p>入职之后，没有指引没有方向，在碌碌无为了一段时间后，开始做自己想做的事。陷入了一个怪圈，越不被看到，就越不想被看到。</p><p>最近沉迷读书，沉迷音乐，沉迷小宇宙，今天搭建起了这个个人博客，简直开心极了，这种欢愉已经完全冲散了工作的烦恼。</p><p>那么我到底是想工作还是不想，我只是想证明自己和寻找自己的意义吧，是不是通过工作好像没有那么重要。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;入职之后，没有指引没有方向，在碌碌无为了一段时间后，开始做自己想做的事。&lt;/p&gt;
-&lt;p&gt;陷入了一个怪圈，越不被看到，就越不想被看到。&lt;/p&gt;
+    <summary type="html">&lt;p&gt;入职之后，没有指引没有方向，在碌碌无为了一段时间后，开始做自己想做的事。陷入了一个怪圈，越不被看到，就越不想被看到。&lt;/p&gt;
 &lt;p&gt;最近沉迷读书，沉迷音乐，沉迷小宇宙，今天搭建起了这个个人博客，简直开心极了，这种欢愉已经完全冲散了工作的烦恼。&lt;/p&gt;
-</summary>
+&lt;p&gt;那么我到底是想工</summary>
       
     
     
